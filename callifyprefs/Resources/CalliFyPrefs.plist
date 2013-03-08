@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Call Button Text</string>
+			<key>footerText</key>
+			<string>CalliFy Coded by Aehmlo Lxaitn (@Aehmlo)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.aehmlo.callify</string>
+			<key>key</key>
+			<string>Text</string>
+			<key>label</key>
+			<string>Text</string>
+			<key>bestGuess</key>
+			<string>Call</string>
+			<key>noAutoCorrect</key>
+			<true/>
+			<key>placeholder</key>
+			<string>Call</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>killPhoneApp</string>
+			<key>label</key>
+			<string>Apply Changes</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>CalliFy</string>
+</dict>
+</plist>

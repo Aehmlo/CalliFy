@@ -1,0 +1,9 @@
+Package: com.aehmlo.callify
+Name: CalliFy
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Aehmlo
+Author: Aehmlo
+Section: Tweaks
